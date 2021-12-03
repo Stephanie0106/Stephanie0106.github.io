@@ -1,0 +1,24 @@
+body{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+	background-color: lightpink;
+	background-size: 15%;
+}
+p{
+	color: black;
+	font-family: 'EB Garamond', serif;
+	font-size: 100%;
+}
+ul,ol{
+	background-color: lightblue;
+}
+#one{
+	color: red;
+}
+#two{
+	color: red;
+}
+.newcolor{
+	color: blue;
+}

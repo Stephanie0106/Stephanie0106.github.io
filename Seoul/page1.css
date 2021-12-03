@@ -1,0 +1,22 @@
+body{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+	background-color: lightblue;
+	background-size: 15%;
+}
+th,h1{
+	color: yellow;
+}
+ul,ol{
+	background-color: lightblue;
+}
+#one{
+	color: red;
+}
+#two{
+	color: red;
+}
+.newcolor{
+	color: blue;
+}

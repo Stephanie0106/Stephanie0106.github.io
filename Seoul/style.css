@@ -1,0 +1,29 @@
+body{
+	background-image: url(https://image.shutterstock.com/image-vector/seoul-south-korea-national-flag-260nw-1629893131.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+	background-color: lightsteelblue;
+	background-size: 20%;
+}
+p{
+	color: black;
+	font-size: 200%;
+}
+th,h1{
+	color: black;
+	font-size: 120%;
+	font-family: lora;
+}
+ul,ol{
+	background-color: none;
+}
+#one{
+	color: darkblue;
+}
+#two{
+	color: blue;
+}
+.newcolor{
+	color: red;
+}
